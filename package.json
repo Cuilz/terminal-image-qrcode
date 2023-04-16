@@ -1,0 +1,18 @@
+{
+  "name": "terminal-image-qrcode",
+  "version": "0.0.1",
+  "main": "lib.js",
+  "description" : "QRCode, in the terminal, Buffer",
+  "type": "module",
+  "homepage": "https://github.com/Cuilz/terminal-image-qrcode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cuilz/terminal-image-qrcode"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nuintun/qrcode": "^3.3.1",
+    "jimp": "^0.22.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

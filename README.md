@@ -3,7 +3,7 @@
 ```javascript
 import QRCode from 'terminal-image-qrcode'
 
-const buffer = Buffer.from('');
+const buffer = Buffer.from('buffer');
 const qrcode = await QRCode(buffer);
 console.log(qrcode);
 ```
